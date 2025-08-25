@@ -1,5 +1,5 @@
 # webfont_fangsong
-The split subsetted webfont of various “fangsong”.
+The split subsetted webfont of various *fangsong*.
 
 使用方法：
 ```CSS
